@@ -29,7 +29,8 @@ nav li a {
 }
 
 footer {
-  background-color: rgb(30, 30, 30);
+  background-image: url("/images/footer-bg.jpg");
+  background-repeat: repeat-x;
 }
 
 li {
@@ -42,7 +43,7 @@ a {
 
 .logo-bg-brand {
   overflow: hidden;
-  background-image: url(/public/images/dc-logo-bg.png);
+  background-image: url("/public/images/dc-logo-bg.png");
   background-repeat: no-repeat;
 }
 
