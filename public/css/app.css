@@ -1,0 +1,87 @@
+header {
+  height: 100px;
+  border-top: 10px solid rgb(27, 27, 118);
+  background-color: white;
+}
+
+.logoBrand {
+  width: 5%;
+  min-width: 70px;
+  min-height: 70px;
+}
+
+nav li {
+  list-style: none;
+  margin-left: 2px;
+  display: inline;
+  padding-left: 60px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: rgb(83, 84, 79);
+  font-size: 0.7rem;
+}
+
+.active {
+  color: rgb(56, 128, 241);
+  border-bottom: 2px solid rgb(56, 128, 241);
+}
+
+footer {
+  background-color: rgb(30, 30, 30);
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-bg-brand {
+  overflow: hidden;
+  background-image: url(/public/images/dc-logo-bg.png);
+  background-repeat: no-repeat;
+}
+
+.footer-bottom {
+  height: 100px;
+  background-color: rgb(46, 46, 46);
+}
+
+.button-footer {
+  border: 2px solid rgb(56, 128, 241);
+}
+
+.follow a {
+  color: rgb(56, 128, 241);
+}
+
+.comic-container img {
+  width: 120px;
+  height: 120px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+}
+
+.comic-container p {
+  font-size: 13px;
+}
+
+.btn-load-more {
+  background: rgb(56, 128, 241);
+}
+
+.hero_series img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+  height: 300px;
+  width: 100%;
+}
+

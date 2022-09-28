@@ -1,0 +1,9 @@
+@import "./vars.scss";
+.hero_series{
+    img{
+        object-fit: cover;
+        object-position: top;
+        height: 300px;
+        width: 100%;
+        }
+    }
