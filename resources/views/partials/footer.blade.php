@@ -1,6 +1,6 @@
 <footer class="">
     <div class="row pt-3 px-3 footer-top">
-        <div class="col-2 py-5">
+        <div class="col-2 ">
         <h5 class="text-white">DC COMICS</h5>
         <ul class="p-0">
             <li>
@@ -38,7 +38,7 @@
             </li>
         </ul>
     </div>
-    <div class="col-2 py-5">
+    <div class="col-2 ">
             <h5 class="text-white">DC</h5>
         <ul class="p-0">
             <li>
@@ -67,7 +67,7 @@
             </li>
         </ul>
     </div>
-    <div class="col-2 py-5">
+    <div class="col-2 ">
             <h5 class="text-white">SITES</h5>
         <ul class="p-0">
             <li>

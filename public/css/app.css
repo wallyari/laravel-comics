@@ -31,6 +31,7 @@ nav li a {
 footer {
   background-image: url("/images/footer-bg.jpg");
   background-repeat: repeat-x;
+  font-size: 15px;
 }
 
 li {
@@ -45,6 +46,7 @@ a {
   overflow: hidden;
   background-image: url("/public/images/dc-logo-bg.png");
   background-repeat: no-repeat;
+  height: 400px;
 }
 
 .footer-bottom {
